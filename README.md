@@ -1,7 +1,15 @@
 # Netflix-Style Subscriber Churn and Engagement Analysis
 
-<a href="https://commons.wikimedia.org/wiki/File:Netflix_2015_logo.svg"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/330px-Netflix_2015_logo.svg.png" alt="Netflix logo" width="180"></a>
+<div align="center">
+  <a href="https://commons.wikimedia.org/wiki/File:Netflix_2015_logo.svg">
+    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/330px-Netflix_2015_logo.svg.png"
+         alt="Netflix logo"
+         width="180">
+  </a>
+</div>
 
+
+  
 #### Background
 
 This Netflix-style case study covers 5,000 streaming subscribers. The dataset records subscription plans, viewing activity, time since last login, device, region, and whether each subscriber is labeled as churned.
@@ -10,7 +18,7 @@ This Netflix-style case study covers 5,000 streaming subscribers. The dataset re
 
 Analyse how subscription plans and engagement relate to recorded churn and identify which patterns a retention team should investigate.
 
-#### Questions and Answers
+#### Conclusion
 
 - **How many subscribers were labeled as churned or retained?**
 
