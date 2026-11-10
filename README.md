@@ -26,7 +26,3 @@ This case study analyses 5,000 streaming subscriber records to identify which pl
 | How much did churn vary by region? | Europe had the highest proportion at 51.7% (448 of 867) and Africa the lowest at 48.3% (388 of 803), a gap of **3.4 percentage points**. |
 | Which devices had the highest churn within each plan? | Laptop led in Basic (65.7%) and Standard (48.6%). Mobile led in Premium (46.7%). |
 | What happened when both engagement signals were present? | Churn was **91.5%** (1,596 of 1,744) for subscribers who watched under 18 minutes per day and last logged in at least 30 days ago, versus **7.0%** (117 of 1,669) for neither signal. |
-
-## Conclusion
-
-Start with Basic and verify whether the engagement signals were recorded before cancellation. The dataset gives no observation dates, so the percentages describe churn labels within the sample.
